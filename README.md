@@ -13,3 +13,4 @@ Includes:
 Does NOT Include:
 
 * 100% original code -> 60-70% of code is original. Remaining 30-40% of code is starter code provided by the University Of Connecticut
+* Tests -> Code tested remotely using GDB and Valgrind
